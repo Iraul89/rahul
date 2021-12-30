@@ -167,6 +167,9 @@ System.out.println("average turnaround time:" +(avgTaT/n));
 
 
 
+/*
+OUTPUT:
+
 Enter Number of Processes:
 3
 P(1):Enter Arrival time & Burst time
@@ -184,3 +187,22 @@ P2	3	0	27	27	24	0
 P3	4	0	31	31	27	0
 Average Waiting Time17.0
 Average TAT=27.333333333333332
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
